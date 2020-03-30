@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d51d55f-a6b5-405a-8658-df209a5e7210" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/1.CountNum.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1/1.CountNum.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.GrayCode.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.GrayCode_result" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.ModeNum" beforeDir="false" afterPath="$PROJECT_DIR$/3.ModeNum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.ModeNum" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/3.ModeNum.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/qqq.exe" beforeDir="false" afterPath="$PROJECT_DIR$/qqq.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.ModeNum2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/select.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +75,9 @@
       <option name="presentableId" value="Default" />
       <updated>1585142507005</updated>
       <workItem from="1585142510425" duration="530000" />
+      <workItem from="1585410842173" duration="6000" />
+      <workItem from="1585410991424" duration="2000" />
+      <workItem from="1585411024630" duration="358000" />
     </task>
     <servers />
   </component>
@@ -85,28 +85,51 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1585143051730">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1585411383309">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585143051730" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1585143051730">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585411383309" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1585411383309">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585143051730" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1585143051730">
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585411383309" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1585411383308">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585143051730" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1585143051730">
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585411383308" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1585411383309">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585143051730" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585142510720">
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585411383309" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1585411383309">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585142510720" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585411383309" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1585411383309">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585411383309" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1585411383309">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585411383309" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1585411383309">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585411383309" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585411025261">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585411025261" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="_max" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/$3.coverage" NAME="3 Coverage Results" MODIFIED="1585142993680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$3.coverage" NAME="3 Coverage Results" MODIFIED="1585411350963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
