@@ -3,10 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="9d51d55f-a6b5-405a-8658-df209a5e7210" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.ModeNum" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.ModeNum.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.ModeNum2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/select.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/c_cpp_properties.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2.GrayCode.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2/2.GrayCode.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2.GrayCode_result" beforeDir="false" afterPath="$PROJECT_DIR$/2/2.GrayCode_result" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/3.ModeNum" beforeDir="false" afterPath="$PROJECT_DIR$/3/3.ModeNum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.MidNum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.MidNum.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +37,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../" />
   </component>
   <component name="RunManager">
     <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -78,6 +82,9 @@
       <workItem from="1585410842173" duration="6000" />
       <workItem from="1585410991424" duration="2000" />
       <workItem from="1585411024630" duration="358000" />
+      <workItem from="1585928554571" duration="78000" />
+      <workItem from="1586409301233" duration="43000" />
+      <workItem from="1586890758092" duration="9000" />
     </task>
     <servers />
   </component>
@@ -85,22 +92,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1585411383309">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1586890765613">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585411383309" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1585411383309">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586890765613" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1585928631647">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585411383309" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1585411383308">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585928631647" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1585928631647">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585411383308" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1585411383309">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585928631647" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1585928631647">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585411383309" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585928631647" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1585928631647">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585928631647" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1585411383309">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -117,10 +128,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585411383309" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585411025261">
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586890758313">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585411025261" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586890758313" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
